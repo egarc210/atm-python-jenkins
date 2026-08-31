@@ -1,5 +1,7 @@
 # Simulación de Cajero Automático (ATM)
-#Esta es una prueba para la grabación
+
+#Esta es una primera prueba para la grabación
+#Esta es una segunda prueba para la grabación
 
 
 class ATM:
